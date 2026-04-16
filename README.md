@@ -24,4 +24,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+<br/>
+
+<!-- GitHub Stats + Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kairyx-dev&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kairyx-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+
 </div>
