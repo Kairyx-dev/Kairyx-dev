@@ -46,4 +46,20 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kairyx-dev&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
+<br/>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kairyx-dev/Kairyx-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kairyx-dev/Kairyx-dev/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kairyx-dev/Kairyx-dev/output/github-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Footer -->
+<a href="https://kairyx-dev.github.io">
+  🌐 kairyx-dev.github.io
+</a>
+
 </div>
