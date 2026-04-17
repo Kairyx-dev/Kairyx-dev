@@ -27,9 +27,9 @@
 <br/>
 
 <!-- GitHub Stats + Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kairyx-dev&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-chi-95.vercel.app/api?username=Kairyx-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kairyx-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-chi-95.vercel.app/api/top-langs/?username=Kairyx-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
 
 <br/>
 
@@ -44,7 +44,7 @@
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kairyx-dev&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph-ten-wheat.vercel.app/graph?username=Kairyx-dev&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br/>
 
