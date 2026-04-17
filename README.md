@@ -29,7 +29,7 @@
 <!-- GitHub Stats + Top Languages -->
 <img src="https://github-readme-stats-eight-chi-95.vercel.app/api?username=Kairyx-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats-eight-chi-95.vercel.app/api/top-langs/?username=Kairyx-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-chi-95.vercel.app/api/top-langs/?username=Kairyx-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Background_Sub,RVC-colab,TensorflowProject" height="195" alt="Top Languages" />
 
 <br/>
 
