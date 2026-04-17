@@ -36,12 +36,7 @@
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Kairyx-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Kairyx-dev&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="Trophies" />
-
-<br/><br/>
+<br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph-ten-wheat.vercel.app/graph?username=Kairyx-dev&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
